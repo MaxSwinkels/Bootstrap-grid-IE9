@@ -1,6 +1,6 @@
 # Bootstrap 4 Grid for IE9
 
-Bootstrap 4 drops Internet Explorer 9 support and goes full flexbox whereby the grid system is not working in IE9, but you can add it back by simply adding this conditional CSS.
+Bootstrap 4 drops the support of Internet Explorer 9 and becomes fully flexbox where the grid system does not work in IE9. Adding this conditional CSS makes the site functionally workable again in IE9.
 
 ### Usage
 
